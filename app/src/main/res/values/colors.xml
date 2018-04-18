@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#689F38</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#689F38</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <!-- Background color for the Must See category -->
+    <color name="category_mustSee">#FD8E09</color>
+
+    <!-- Background color for the Visit  category -->
+    <color name="category_visit">#E53935</color>
+
+    <!-- Background color for the Sleep category -->
+    <color name="category_sleep">#8800A0</color>
+
+    <!-- Background color for the Eat category -->
+    <color name="category_eat">#16AFCA</color>
+</resources>

@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name" translatable="false"> Évora City </string>
+
+    <!-- Category name for must see [CHAR LIMIT=20] -->
+    <string name="category_mustSee">Must See</string>
+
+    <!-- Category name for visit[CHAR LIMIT=20] -->
+    <string name="category_visit">Visit</string>
+
+    <!-- Category name for sleep [CHAR LIMIT=20] -->
+    <string name="category_sleep">Sleep</string>
+
+    <!-- Category name for eat [CHAR LIMIT=20] -->
+    <string name="category_eat">Eat</string>
+
+    <!-- Must see Attractions names-->
+    <string name="name_diana" translatable="false">Templo de Diana</string>
+    <string name="name_giraldo" translatable="false"> Praça do Giraldo</string>
+    <string name="name_jardim" translatable="false">Jardim Público</string>
+    <string name="name_aqueduct">Évora Aqueduct</string>
+    <string name="name_streets"> Évora Streets </string>
+    <string name="name_university">University of Évora</string>
+    <string name="name_moura" translatable="false"> Largo da Porta de Moura</string>
+
+    <!-- Must see descriptions-->
+    <string name="descr_diana">Roman Temple of Évora</string>
+    <string name="descr_giraldo">Main central plaza of Évora located in the heart of the city</string>
+    <string name="descr_jardim">Park with views out over city and nice for rest</string>
+    <string name="descr_aqueduct">Water system construction from the 16th century</string>
+    <string name="descr_streets">A maze in the old quarter of the city with cobbled streets and traditionally painted houses</string>
+    <string name="descr_university">Public university from 1559. Blended with the city, it comprises buildings with high patrimonial value</string>
+    <string name="descr_moura"> Picturesque square, it is a cultural footprint from the Moorish occupation</string>
+
+    <!-- Visit attractions names-->
+    <string name="name_ossos" translatable="false"> Capela dos Ossos</string>
+    <string name="name_museu"> Museum of Évora</string>
+    <string name="name_almendres" translatable="false"> Cromeleque dos Almendres</string>
+    <string name="name_catedral">Cathedral of Évora</string>
+    <string name="name_francisco" translatable="false"> Igreja de São Francisco</string>
+    <string name="name_cadaval" translatable="false"> Palácio dos Duques de Cadaval </string>
+    <string name="name_fundacao" translatable="false"> Fundação Eugénio de Almeida</string>
+
+    <!-- Visit descriptions-->
+    <string name="descr_ossos">Small chapel where the walls are line with bones of the long deceased</string>
+    <string name="descr_museu">Museum with a range of exhibits that detail the long history of the region</string>
+    <string name="descr_almendres">Standing stones from 5000&#8211;2000 bc. Finest example of prehistoric monument in SW Europe</string>
+    <string name="descr_catedral">Roman catholic church. World Heritage Site by UNESCO since 1988</string>
+    <string name="descr_francisco">Church with important symbols from the portuguese maritime discoveries</string>
+    <string name="descr_cadaval">Noble house in the old part of the city. A peace of city history</string>
+    <string name="descr_fundacao">Centerof the Arts and Culture, especially contemporary art</string>
+
+    <!--Sleep attractions names-->
+    <string name="name_ar" translatable="false">M\'Ar de Ar Aqueduto</string>
+    <string name="name_pousada" translatable="false">Pousada Convento de Évora</string>
+    <string name="name_stone" translatable="false">Vitoria Stone Hotel</string>
+    <string name="name_solar" translatable="false">Hotel Solar de Monfadim</string>
+    <string name="name_dom" translatable="false">Dom Fernando</string>
+    <string name="name_moov" translatable="false">Moov Hotel Évora</string>
+    <string name="name_ibis" translatable="false">Ibis</string>
+
+    <!--Sleep attractions descriptions-->
+    <string name="descr_ar">Luxury hotel in a quiet neighborhood inside the walls</string>
+    <string name="descr_pousada">Luxury hotel in a historic convent restored into an elegant hotel</string>
+    <string name="descr_stone">Mid&#8211;range hotel barely outside the walls, a 10min. walk from the cathedral</string>
+    <string name="descr_solar">Mid&#8211;range hotel overlooking a quiet square in the quarter of the old walled town</string>
+    <string name="descr_dom">Mid&#8211;range hotel near the public garden</string>
+    <string name="descr_moov">Budget hotel a 5min. walk from the lively Praça do Giraldo</string>
+    <string name="descr_ibis">Budget hotel outside the walls but near from the center</string>
+
+    <!--Eat attractions names-->
+    <string name="name_botequim" translatable="false">Botequim da Mouraria</string>
+    <string name="name_salsa" translatable="false">Salsa Verde</string>
+    <string name="name_janeiro" translatable="false">Luar de Janeiro</string>
+    <string name="name_joaquim" translatable="false">Dom Joaquim</string>
+    <string name="name_quarta" translatable="false">Quarta Feira</string>
+    <string name="name_covas" translatable="false">Chão das Covas</string>
+    <string name="name_nove" translatable="false">Um Quarto para as nove</string>
+
+    <!--Eat attractions descriptions-->
+    <string name="descr_botequim">Around the old Moorish quarter with Évora\'s finnest food and wine</string>
+    <string name="descr_salsa">Traditional Alentejo\'s food with a vegetarian twist</string>
+    <string name="descr_janeiro">Attentive service and dishes made with top quality produce</string>
+    <string name="descr_joaquim">Housed in a renovated building with stone walls and modern artwork. Traditional cuisine</string>
+    <string name="descr_quarta">Just one dish, slow&#8211;cooked black pork. Located the Moorish quarter</string>
+    <string name="descr_covas">Beside the aqueduct. Tasty home cooked Alentejo\'s classic food</string>
+    <string name="descr_nove">Delightful place with 30 years experience with Évora\'s best seafood dishes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
