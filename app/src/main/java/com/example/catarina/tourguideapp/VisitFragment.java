@@ -29,19 +29,19 @@ public class VisitFragment extends Fragment {
         // Create a list of visit attractions
         final ArrayList<Attraction> attractions = new ArrayList<Attraction>();
         attractions.add(new Attraction(R.string.name_ossos, R.string.descr_ossos,
-                R.drawable.ic_launcher_foreground));
+                R.drawable.ossos));
         attractions.add(new Attraction(R.string.name_museu, R.string.descr_museu,
-                R.drawable.ic_launcher_foreground));
+                R.drawable.museu));
         attractions.add(new Attraction(R.string.name_almendres, R.string.descr_almendres,
-                R.drawable.ic_launcher_foreground));
+                R.drawable.almendres));
         attractions.add(new Attraction(R.string.name_catedral, R.string.descr_catedral,
-                R.drawable.ic_launcher_foreground));
+                R.drawable.catedral));
         attractions.add(new Attraction(R.string.name_francisco, R.string.descr_francisco,
-                R.drawable.ic_launcher_foreground));
+                R.drawable.francisco));
         attractions.add(new Attraction(R.string.name_cadaval, R.string.descr_cadaval,
-                R.drawable.ic_launcher_foreground));
+                R.drawable.cadaval));
         attractions.add(new Attraction(R.string.name_fundacao, R.string.descr_fundacao,
-                R.drawable.ic_launcher_foreground));
+                R.drawable.fundacao));
 
         // Create an {@link AttractionAdapter}, whose data source is a list of {@link Attraction}s. The
         // adapter knows how to create list items for each item in the list.

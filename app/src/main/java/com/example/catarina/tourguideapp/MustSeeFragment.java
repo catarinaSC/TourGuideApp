@@ -31,17 +31,17 @@ public class MustSeeFragment extends Fragment {
         attractions.add(new Attraction(R.string.name_diana, R.string.descr_diana,
                 R.drawable.diana));
         attractions.add(new Attraction(R.string.name_giraldo, R.string.descr_giraldo,
-                R.drawable.ic_launcher_foreground));
+                R.drawable.giraldo));
         attractions.add(new Attraction(R.string.name_jardim, R.string.descr_jardim,
-                R.drawable.ic_launcher_foreground));
+                R.drawable.jardim));
         attractions.add(new Attraction(R.string.name_aqueduct, R.string.descr_aqueduct,
-                R.drawable.ic_launcher_foreground));
+                R.drawable.aqueduto));
         attractions.add(new Attraction(R.string.name_streets, R.string.descr_streets,
-                R.drawable.ic_launcher_foreground));
+                R.drawable.streets));
         attractions.add(new Attraction(R.string.name_university, R.string.descr_university,
-                R.drawable.ic_launcher_foreground));
+                R.drawable.universidade));
         attractions.add(new Attraction(R.string.name_moura, R.string.descr_moura,
-                R.drawable.ic_launcher_foreground));
+                R.drawable.moura));
 
         // Create an {@link AttractionAdapter}, whose data source is a list of {@link Attraction}s. The
         // adapter knows how to create list items for each item in the list.

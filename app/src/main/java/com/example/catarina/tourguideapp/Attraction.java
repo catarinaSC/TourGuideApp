@@ -1,5 +1,7 @@
 package com.example.catarina.tourguideapp;
 
+import android.support.v7.app.AppCompatActivity;
+
 /**
  * {@link Attraction} represents a sight/place name and description that the user wants to learn.
  * It contains resource IDs for the name,  description and
